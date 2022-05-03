@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+
+p,ul{
+font-size: larger;
+}
+code{
+background-color: rgb(231, 231, 13);
+}
+#header-title{
+    font-size: 30px;
+    left: 20px;
+    font-weight: bold;
+}
+#navbar {
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+    background-color: rgb(210, 181, 238);
+    font-size: larger;
+    }
+    #main-doc header{
+    text-align: left;
+    font-size: 26px;
+    font-weight: bold;
+    }
+     #main-doc{
+    position: absolute;
+    left: 330px;
+    }
